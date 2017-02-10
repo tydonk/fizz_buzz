@@ -8,4 +8,4 @@ Navigate to your chosen directory and clone repository
 
 `git clone https://github.com/tydonk/fizz_buzz`
 
-From the CLI run `fizz-user-input.py`
+From the CLI run `fizzbuzz.py [count]`
